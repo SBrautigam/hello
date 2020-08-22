@@ -11,6 +11,8 @@
  int main(int argc, char **argv){
 
      printf("Sylas Brautigam!\n");
+     printf("Bhabishya Neupane!\n");
+     printf("Economics and Mathematics!\n");
 
      return 0;
  }
